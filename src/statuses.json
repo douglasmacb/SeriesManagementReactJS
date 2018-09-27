@@ -1,0 +1,5 @@
+statuses = {
+  "watching": "Assistindo",
+  "watched": "Assistido",
+  "toWatch": "Assistirei"
+}
